@@ -1,3 +1,4 @@
 hello everyone.
 This is a new class
 yes
+now master3 is being added
