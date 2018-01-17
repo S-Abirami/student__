@@ -2,3 +2,4 @@ hello everyone.
 This is a new class   now master3 is being added
 yes
 commiting again in master
+ how r u ?
